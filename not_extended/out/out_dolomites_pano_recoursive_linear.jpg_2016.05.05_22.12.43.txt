@@ -1,0 +1,189 @@
+*************************************lab4_tester_v02.m************************************
+**********************************out_2016.05.05_22.08.41*********************************
+***************************Path:../images/dolomites/;Angle:27.1***************************
+******************************Thresholds:0.7,3,100,0.15915,3******************************
+************************************Transaction:linear************************************
+***********************************Algorithm:recoursive***********************************
+-stich2_opt.m:
+----left image : (i1.png;);
+----right image : (i2.png;).
+-match2.m:
+----Matches found=88
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (73) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i1.png;i2.png;);
+----right image : (i3.png;).
+-match2.m:
+----Matches found=23
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (16) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i4.png;);
+----right image : (i5.png;).
+-match2.m:
+----Matches found=106
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (51) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i4.png;i5.png;);
+----right image : (i6.png;).
+-match2.m:
+----Matches found=18
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (15) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i1.png;i2.png;i3.png;);
+----right image : (i4.png;i5.png;i6.png;).
+-match2.m:
+----Matches found=4
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (0) traslactions for RANSAC.
+-match2.m:
+----Matches found=136
+-findTraslation_opt.m:
+----Optimization index: (2); Average across (95) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i7.png;);
+----right image : (i8.png;).
+-match2.m:
+----Matches found=76
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (63) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i7.png;i8.png;);
+----right image : (i9.png;).
+-match2.m:
+----Matches found=19
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (14) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i10.png;);
+----right image : (i11.png;).
+-match2.m:
+----Matches found=72
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (65) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i7.png;i8.png;i9.png;);
+----right image : (i10.png;i11.png;).
+-match2.m:
+----Matches found=4
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (0) traslactions for RANSAC.
+-match2.m:
+----Matches found=159
+-findTraslation_opt.m:
+----Optimization index: (2); Average across (102) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i1.png;i2.png;i3.png;i4.png;i5.png;i6.png;);
+----right image : (i7.png;i8.png;i9.png;i10.png;i11.png;).
+-match2.m:
+----Matches found=1
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (0) traslactions for RANSAC.
+-match2.m:
+----Matches found=63
+-findTraslation_opt.m:
+----Optimization index: (2); Average across (47) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i12.png;);
+----right image : (i13.png;).
+-match2.m:
+----Matches found=75
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (48) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i12.png;i13.png;);
+----right image : (i14.png;).
+-match2.m:
+----Matches found=8
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (3) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i15.png;);
+----right image : (i16.png;).
+-match2.m:
+----Matches found=49
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (47) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i15.png;i16.png;);
+----right image : (i17.png;).
+-match2.m:
+----Matches found=49
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (39) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i12.png;i13.png;i14.png;);
+----right image : (i15.png;i16.png;i17.png;).
+-match2.m:
+----Matches found=6
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (0) traslactions for RANSAC.
+-match2.m:
+----Matches found=81
+-findTraslation_opt.m:
+----Optimization index: (2); Average across (73) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i18.png;);
+----right image : (i19.png;).
+-match2.m:
+----Matches found=273
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (79) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i18.png;i19.png;);
+----right image : (i20.png;).
+-match2.m:
+----Matches found=244
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (76) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i21.png;);
+----right image : (i22.png;).
+-match2.m:
+----Matches found=149
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (51) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i18.png;i19.png;i20.png;);
+----right image : (i21.png;i22.png;).
+-match2.m:
+----Matches found=86
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (28) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i12.png;i13.png;i14.png;i15.png;i16.png;i17.png;);
+----right image : (i18.png;i19.png;i20.png;i21.png;i22.png;).
+-match2.m:
+----Matches found=3
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (0) traslactions for RANSAC.
+-match2.m:
+----Matches found=61
+-findTraslation_opt.m:
+----Optimization index: (2); Average across (43) traslactions for RANSAC.
+-stich2_opt.m:
+----left image : (i1.png;i2.png;i3.png;i4.png;i5.png;i6.png;i7.png;i8.png;i9.png;i10.png;i11.png;);
+----right image : (i12.png;i13.png;i14.png;i15.png;i16.png;i17.png;i18.png;i19.png;i20.png;i21.png;i22.png;).
+-match2.m:
+----Matches found=0
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (0) traslactions for RANSAC.
+-match2.m:
+----Matches found=1
+-findTraslation_opt.m:
+----Optimization index: (2); Average across (0) traslactions for RANSAC.
+-match2.m:
+----Matches found=242
+-findTraslation_opt.m:
+----Optimization index: (3); Average across (159) traslactions for RANSAC.
+-lab4_tester_v02.m:
+----Elapsed CPU time (Exposure: manual, transaction:linear, algorithm:recoursive)=72.8906
+*****************************************Cropping*****************************************
+-match2.m:
+----Matches found=91
+-findTraslation_opt.m:
+----Optimization index: (1); Average across (70) traslactions for RANSAC.
+-Saving:dolomites_pano_recoursive_linear.jpg
